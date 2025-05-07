@@ -76,6 +76,19 @@ Pull request’ler her zaman açıktır. Daha iyi hale getirmek için katkı sa�
 
 ---
 
-## Lisans
+## ⚖️ Lisans
 
-MIT License © [Cexha](https://github.com/Cexha)
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+
+---
+
+## ❤️ Katkıda Bulun
+
+Pull request’lere her zaman açığız! Yeni özellik fikirlerin varsa [Issues](https://github.com/Cexha/AIcord-Panel/issues) sekmesine yazmayı unutma!
+
+---
+
+## 👑 Geliştirici
+
+**AIcord & SentinelAI** projeleri  
+by [@Cexha](https://github.com/Cexha)
